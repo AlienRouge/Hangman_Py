@@ -1,1 +1,1 @@
-# Hangman_Py
+# Console Hangman-game_RU [Python]
